@@ -50,16 +50,6 @@
 
 
 
-<picture>
-  <source srcset="github-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="github-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="github-light.svg" alt="Terminal" width="26px" />
-</picture>
-<picture>
-  <source srcset="terminal-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="terminal-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="terminal-light.svg" alt="Terminal" width="26px" />
-</picture>
 <br />
 <br />
 

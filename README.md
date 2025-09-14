@@ -1,12 +1,3 @@
-<div align='center'>
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/alvinwills/alvinwills/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/alvinwills/alvinwills/output/github-snake.svg" media="(prefers-color-scheme: light)" />
-  <img src="https://raw.githubusercontent.com/alvinwills/alvinwills/output/github-snake.svg" alt="Snake" />
-</picture>
-</div>
-
 <br>
 <br>
 

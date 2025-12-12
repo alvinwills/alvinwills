@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33d6ff&center=true&vCenter=true&width=750&lines=Hi,+I'm+Alvin+Abia-Williams;Tech-driven+Developer;Building+Efficient+Solutions" alt="Typing SVG" />
 </div>
 
-<p align='center'>Tech-driven, always learning, and focused on building efficient solutions.</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alvinwills&logoColor=red&color=blue" alt="Profile Views" />

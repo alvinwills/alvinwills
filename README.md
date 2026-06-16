@@ -5,8 +5,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alvinwills&logoColor=red&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/alvinwills?label=Followers&style=default" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/alvinwills?label=Stars&style=default" alt="Stars" />
+
 </div>
 
 <br />
